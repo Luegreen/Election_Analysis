@@ -1,5 +1,5 @@
 # Election_Analysis
-Using Python
+Python3, Visual Studio Code, PyPoll, Data Structures and calculations, Python Dependencies 
 
 ## Project Overview
 A Colorodo Board of Elections employee has given the following asks to complete the election audit of a recent local congressional election.
@@ -24,4 +24,6 @@ A Colorodo Board of Elections employee has given the following asks to complete 
 ## A business case for future uses
 This election summary was run with a script that can be used easily for many election results. If the election has more specific detail than county, like city for example, that information can easily be added to the script by copying any county information, pointing the code to the column that has city specific data. If the election is for multiple roles, like School Board and City Council, the code can simply be duplicated and specified for each role. 
 
+## A fast screenshot of the code
+<img width="662" alt="Screen Shot 2021-08-06 at 9 32 42 AM" src="https://user-images.githubusercontent.com/14239715/128518788-1544f048-84eb-450d-a2bd-d5e0b6ed52ed.png">
 
